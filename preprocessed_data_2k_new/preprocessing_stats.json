@@ -1,0 +1,8 @@
+{
+  "total_logs": 2000,
+  "processed_logs": 2000,
+  "dropped_logs": 0,
+  "unique_blocks": 1994,
+  "unknown_templates": 0,
+  "data_quality_issues": []
+}
